@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidanjinn
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning java and C++
+- 🌱 I’m working on a student reselling website for Vanderbilt.
 - 💞️ I’m looking to collaborate on anything fun :)
 - 📫 How to reach me just send me an email @ aidan.j.wendorf@gmail.com
 
