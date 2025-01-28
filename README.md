@@ -33,7 +33,7 @@ A **Python** and **Flask**-powered API that delivers AI-summarized news articles
 ## 📫 **Let's Connect!**
 - **Email**: aidan.j.wendorf@gmail.com
 - **LinkedIn**: [Aidan Wendorf](https://www.linkedin.com/in/aidan-wendorf/)
-- **Portfolio**: [aidanjinn.github.io](https://aidanjinn.github.io/dewwebsiteAidanjinn/)
+- **Portfolio**: [aidanjinn.github.io](https://aidanjinn.github.io/devwebsiteAidanjinn/)
 
 ---
 
