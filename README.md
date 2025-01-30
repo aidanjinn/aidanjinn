@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aidan Wendorf!
 
-💻 **Software Engineer** | 🍳 **Aspiring Chef** | 🇯🇵 **Japanese Enthusiast**
+💻 **Software Engineer** | 🍳 **Aspiring Chef** | 🇯🇵 **Japanese American**
 
 Welcome to my GitHub profile! I'm a Computer Science major at **Vanderbilt University** with a passion for building scalable, user-friendly applications and exploring new technologies. When I'm not coding, you can find me experimenting in the kitchen or practicing my Japanese skills.
 
