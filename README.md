@@ -6,6 +6,20 @@ Welcome to my GitHub profile! I'm a Computer Science major at **Vanderbilt Unive
 
 ---
 
+## 🛠️ **Technologies I Use**
+
+### Programming Languages
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" height="20"/> **Python**
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="20" height="20"/> **Java**
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="20" height="20"/> **C/C++**
+
+### Web Development
+<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="20" height="20"/> **Flask**
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="20" height="20"/> **Django**
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20" height="20"/> **React**
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="20" height="20"/> **HTML**
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="20" height="20"/> **CSS**
+
 ## 🛠️ **Current Project(s)**
 
 ### 📰 [News Summarization API](https://github.com/aidanjinn/newsAPI)
