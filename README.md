@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm a Computer Science major at **Vanderbilt Unive
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="20" height="20"/> **HTML**
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="20" height="20"/> **CSS**
 
+---
+
 ## 🛠️ **Current Project(s)**
 
 ### 📰 [News Summarization API](https://github.com/aidanjinn/newsAPI)
