@@ -34,7 +34,7 @@ A **Python** and **Flask**-powered API that delivers AI-summarized news articles
 
 ### 📊 Community Profile Generator
 A **Python** and **Flask**-powered tool that takes a given location and generates a community profile using government census and EPA data. Features include:
-- **AI-Powered Content Generation** After the data is collected Gemini is used to format the community profile
+- **AI-Powered Content Formatting** After the data is collected Gemini is used to format the community profile
 
 ---
 
