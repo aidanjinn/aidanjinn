@@ -32,6 +32,10 @@ A **Python** and **Flask**-powered API that delivers AI-summarized news articles
 - **Multi-Language Translation**: Translate articles into your preferred language.
 - **Cloud Deployment**: Scalable and reliable for real-time news aggregation.
 
+### 📊 Community Profile Generator
+A **Python** and **Flask**-powered tool that takes a given location and generates a community profile using government census and EPA data. Features include:
+- **AI-Powered Content Generation** After the data is collected Gemini is used to format the community profile
+
 ---
 
 ## 🎓 **Education**
