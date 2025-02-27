@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm a Computer Science major at **Vanderbilt University** with a passion for building scalable, user-friendly applications and exploring new technologies. When I'm not coding, you can find me experimenting in the kitchen or practicing my Japanese skills.
 
+**Current Resume**: [Resume](https://github.com/aidanjinn/Resume/blob/main/Aidan_WendorfResume.pdf)
+
 ---
 
 ## 🛠️ **Technologies I Use**
@@ -57,6 +59,7 @@ A **Python** and **Flask**-powered tool that takes a given location and generate
 - **Email**: aidan.j.wendorf@gmail.com
 - **LinkedIn**: [Aidan Wendorf](https://www.linkedin.com/in/aidanwendorf/)
 - **Portfolio**: [aidanjinn.github.io](https://aidanjinn.github.io/devwebsiteAidanjinn/)
+- **Resume**: [Resume](https://github.com/aidanjinn/Resume/blob/main/Aidan_WendorfResume.pdf)
 
 ---
 
