@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a Computer Science major at **Vanderbilt Unive
 
 ### Programming Languages
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" height="20"/> **Python**
+<img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="20" height="20"/> **Go**
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="20" height="20"/> **Java**
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="20" height="20"/> **C/C++**
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="20" height="20"/> **Javascript**
