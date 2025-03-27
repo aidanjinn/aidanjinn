@@ -42,6 +42,12 @@ A **Python** and **Flask**-powered tool that takes a given location and generate
 
 ---
 
+### Some Small Programs I've Coded in Golang Recently <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="20" height="20"/>
+- [Simple Physics Simulation](https://github.com/aidanjinn/Golang-Physics-Sim)
+- [TODO CLI Application](https://github.com/aidanjinn/Golang-CLI-Todo)
+
+---
+
 ## 🎓 **Education**
 - **Vanderbilt University**  
   *B.S. in Computer Science, Minor in Japanese*  
