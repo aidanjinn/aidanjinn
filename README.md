@@ -43,6 +43,7 @@ A **Python** and **Flask**-powered tool that takes a given location and generate
 ---
 
 ### Some Small Programs I've Coded in Golang Recently <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="20" height="20"/>
+- [Vending Machine Simulator](https://github.com/aidanjinn/vending_machine)
 - [Simple Physics Simulation](https://github.com/aidanjinn/Golang-Physics-Sim)
 - [TODO CLI Application](https://github.com/aidanjinn/Golang-CLI-Todo)
 
