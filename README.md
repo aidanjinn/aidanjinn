@@ -35,10 +35,10 @@ A **Python** and **Flask**-powered API that delivers AI-summarized news articles
 - **Multi-Language Translation**: Translate articles into your preferred language.
 - **Cloud Deployment**: Scalable and reliable for real-time news aggregation.
 
-### 📊 [Community Profile Generator](https://github.com/aidanjinn/CommunityProfileGenerator)
-A **Python** and **Flask**-powered tool that takes a given location and generates a community profile using government census and EPA data. Features include:
-- **AI-Powered Content Formatting**: Gemini used to create concise and easy to read community profiles
-- **Redis & Celery Workers**: Enables asynchronous task processing and status tracking for long-running tasks.
+### 📊 [Black Scholes Model](https://github.com/aidanjinn/-Black-Scholes-model)
+A **Python**-powered tool that takes a given stock ticker and uses black scholes model to determine options prices. 
+- **Current Fed Data**: pulled from the St. Louis Fed for bond rates
+- **yFinance**: Stock Options data pulled from yahoo finance
 
 ---
 
